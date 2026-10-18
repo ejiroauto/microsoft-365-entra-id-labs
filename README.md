@@ -18,31 +18,31 @@ User lifecycle management is a core Microsoft 365 administration responsibility.
 
 ### User accounts created
 
-![User accounts created](./Evidence/1.1 Users Created .png)
+![User accounts created](./Evidence/1.1Users-Created.png)
 
 *Figure 1.1 Users Created  — User accounts created.*
 
 ### Deleting a user
 
-![Deleting a user](./Evidence/3.1 deleting a user.png)
+![Deleting a user](./Evidence/3.1deleting-a-user.png)
 
 *Figure 3.1 deleting a user — Deleting a user.*
 
 ### Restoring a deleted user
 
-![Restoring a deleted user](./Evidence/3.2 restoring a deleted  user .png)
+![Restoring a deleted user](./Evidence/3.2restoring-a-deleted-user.png)
 
 *Figure 3.2 restoring a deleted  user  — Restoring a deleted user.*
 
 ### Deleted user restored
 
-![Deleted user restored](./Evidence/3.1b delted user restored.png)
+![Deleted user restored](./Evidence/3.1bdelted-user-restored.png)
 
 *Figure 3.1b delted user restored — Deleted user restored.*
 
 ### Resetting a user's password
 
-![Resetting a user's password](./Evidence/6.1 Reset a users password .png)
+![Resetting a user's password](./Evidence/6.1Reset-a-users-password.png)
 
 *Figure 6.1 Reset a users password  — Resetting a user's password.*
 
@@ -56,37 +56,37 @@ Groups simplify access and licence administration. Group-based assignment helps 
 
 ### Creating a security group
 
-![Creating a security group](./Evidence/2.1a creating a security group .png)
+![Creating a security group](./Evidence/2.1acreating-a-security-group.png)
 
 *Figure 2.1a creating a security group  — Creating a security group.*
 
 ### Creating a security group and adding users
 
-![Creating a security group and adding users](./Evidence/2.1 Creating a security group and adding users to it.png)
+![Creating a security group and adding users](./Evidence/2.1Creating-a-security-group-and-adding-users-to-it.png)
 
 *Figure 2.1 Creating a security group and adding users to it — Creating a security group and adding users.*
 
 ### Assigning licences to a group
 
-![Assigning licences to a group](./Evidence/2.2 assign liscences to a group .png)
+![Assigning licences to a group](./Evidence/2.2assign-liscences-to-a-group.png)
 
 *Figure 2.2 assign liscences to a group  — Assigning licences to a group.*
 
 ### Group licence assignment evidence
 
-![Group licence assignment evidence](./Evidence/2.2a assign liscenses to a group .png)
+![Group licence assignment evidence](./Evidence/2.2aassign-liscenses-to-a-group.png)
 
 *Figure 2.2a assign liscenses to a group  — Group licence assignment evidence.*
 
 ### Unassigning licences from a group
 
-![Unassigning licences from a group](./Evidence/2.3a unassign liscenses froma group .png)
+![Unassigning licences from a group](./Evidence/2.3a-unassign-liscenses-froma-group.png)
 
 *Figure 2.3a unassign liscenses froma group  — Unassigning licences from a group.*
 
 ### Creating a Microsoft 365 group
 
-![Creating a Microsoft 365 group](./Evidence/4.1a Create a microsoft365 group.png)
+![Creating a Microsoft 365 group](./Evidence/4.1a-Create-a-microsoft365-group.png)
 
 *Figure 4.1a Create a microsoft365 group — Creating a Microsoft 365 group.*
 
@@ -106,19 +106,19 @@ Role-based access control supports least privilege: administrators should receiv
 
 ### Role assignment
 
-![Role assignment](./Evidence/7.1a assing a role .png)
+![Role assignment](./Evidence/7.1a-assing-a-role.png)
 
 *Figure 7.1a assing a role  — Role assignment.*
 
 ### Assigning a role
 
-![Assigning a role](./Evidence/7.2 assign a role .png)
+![Assigning a role](./Evidence/7.2assign-a-role.png)
 
 *Figure 7.2 assign a role  — Assigning a role.*
 
 ### Exporting role assignment evidence
 
-![Exporting role assignment evidence](./Evidence/7.3 role assignment exported as csv .png)
+![Exporting role assignment evidence](./Evidence/7.3role-assignment-exported-as-csv.png)
 
 *Figure 7.3 role assignment exported as csv  — Exporting role assignment evidence.*
 
@@ -132,19 +132,19 @@ MFA adds an additional verification step to help protect accounts if a password 
 
 ### Authentication methods configured
 
-![Authentication methods configured](./Evidence/8.1 configured MFA authentication methods .png)
+![Authentication methods configured](./Evidence/8.1configured-MFA-authentication-methods.png)
 
 *Figure 8.1 configured MFA authentication methods  — Authentication methods configured.*
 
 ### Microsoft Authenticator registered successfully
 
-![Microsoft Authenticator registered successfully](./Evidence/8.2. microsoft authenticator registerd succesfully .png)
+![Microsoft Authenticator registered successfully](./Evidence/8.2.microsoft-authenticator-registerd-succesfully.png)
 
 *Figure 8.2. microsoft authenticator registerd succesfully  — Microsoft Authenticator registered successfully.*
 
 ### App password for an application that does not support MFA
 
-![App password for an application that does not support MFA](./Evidence/5. configure mfa :app password for apps that dont support multifactor authentication .png)
+![App password for an application that does not support MFA](./Evidence/5.configure-mfa-:app-password-for-apps-that-dont-support-multifactor-authentication.png)
 
 *Figure 5. configure mfa :app password for apps that dont support multifactor authentication  — App password for an application that does not support MFA.*
 
@@ -154,7 +154,7 @@ MFA adds an additional verification step to help protect accounts if a password 
 Create a Conditional Access policy scoped to a dedicated test user, target Microsoft Admin Portals, include the macOS device platform, and select **Block access**.
 
 ### Configuration and safety
-- **Target user:** Dedicated test account; keep the administrator account excluded.
+- **Target user:** Dedicated test account; kept the administrator account excluded.
 - **Target resource:** Microsoft Admin Portals.
 - **Device platform:** macOS.
 - **Grant control:** Block access.
@@ -168,19 +168,19 @@ Conditional Access combines identity, resource, device-platform, and access-cont
 
 ### Conditional Access policy configured in Report-only mode
 
-![Conditional Access policy configured in Report-only mode](./Evidence/9.2 conditiona access policy:polcies configured but in report-only mode .png)
+![Conditional Access policy configured in Report-only mode](./Evidence/9.2conditiona-access-policy:polcies-configured-but-in-report-only-mode.png)
 
 *Figure 9.2 conditiona access policy:polcies configured but in report-only mode  — Conditional Access policy configured in Report-only mode.*
 
 ### Policy configuration and test scope
 
-![Policy configuration and test scope](./Evidence/9.1 Configure Conditional Access Policy, test usinga test user and one user asigned global admin so can never be locked out and in report-only mode.png)
+![Policy configuration and test scope](./Evidence/9.1Configure-Conditional-Access-Policy,-test-usinga-test-user-and-one-user-asigned-global-admin-so-can-never-be-locked-out-and-in-report-only-mode.png)
 
 *Figure 9.1 Configure Conditional Access Policy, test usinga test user and one user asigned global admin so can never be locked out and in report-only mode — Policy configuration and test scope.*
 
 ### Report-only evaluation: sign-in would have been blocked
 
-![Report-only evaluation: sign-in would have been blocked](./Evidence/9.3 result achieved, it would have blocked that sign in. .png)
+![Report-only evaluation: sign-in would have been blocked](./Evidence/9.3result-achieved,-it-would-have-blocked-that-sign-in.-.png)
 
 *Figure 9.3 result achieved, it would have blocked that sign in.  — Report-only evaluation: sign-in would have been blocked.*
 
