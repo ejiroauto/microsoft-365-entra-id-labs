@@ -18,7 +18,7 @@ User lifecycle management is a core Microsoft 365 administration responsibility.
 
 ### User accounts created
 
-![User accounts created](Evidence/1.1-Users-Created.png)
+![User accounts created](./Evidence/1.1-Users-Created.png)
 
 *Figure 1.1 Users Created  — User accounts created.*
 
