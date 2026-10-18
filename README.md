@@ -18,13 +18,13 @@ User lifecycle management is a core Microsoft 365 administration responsibility.
 
 ### User accounts created
 
-![User accounts created](Evidence/1.1Users-Created.png)
+![User accounts created](Evidence/1.1-Users-Created.png)
 
 *Figure 1.1 Users Created  — User accounts created.*
 
 ### Deleting a user
 
-![Deleting a user](Evidence/3.1deleting-a-user.png)
+![Deleting a user](Evidence/3.1-deleting-a-user.png)
 
 *Figure 3.1 deleting a user — Deleting a user.*
 
@@ -36,13 +36,13 @@ User lifecycle management is a core Microsoft 365 administration responsibility.
 
 ### Deleted user restored
 
-![Deleted user restored](Evidence/3.1bdelted-user-restored.png)
+![Deleted user restored](Evidence/3.1b-delted-user-restored.png)
 
 *Figure 3.1b delted user restored — Deleted user restored.*
 
 ### Resetting a user's password
 
-![Resetting a user's password](Evidence/6.1Reset-a-users-password.png)
+![Resetting a user's password](Evidence/6.1-Reset-a-users-password.png)
 
 *Figure 6.1 Reset a users password  — Resetting a user's password.*
 
@@ -56,37 +56,37 @@ Groups simplify access and licence administration. Group-based assignment helps 
 
 ### Creating a security group
 
-![Creating a security group](Evidence/2.1acreating-a-security-group.png)
+![Creating a security group](Evidence/2.1a-creating-a-security-group.png)
 
 *Figure 2.1a creating a security group  — Creating a security group.*
 
 ### Creating a security group and adding users
 
-![Creating a security group and adding users](Evidence/2.1Creating-a-security-group-and-adding-users-to-it.png)
+![Creating a security group and adding users](Evidence/2.1-Creating-a-security-group-and-adding-users-to-it.png)
 
 *Figure 2.1 Creating a security group and adding users to it — Creating a security group and adding users.*
 
 ### Assigning licences to a group
 
-![Assigning licences to a group](Evidence/2.2assign-liscences-to-a-group.png)
+![Assigning licences to a group](Evidence/2.2-assign-liscences-to-a-group.png)
 
 *Figure 2.2 assign liscences to a group  — Assigning licences to a group.*
 
 ### Group licence assignment evidence
 
-![Group licence assignment evidence](Evidence/2.2aassign-liscenses-to-a-group.png)
+![Group licence assignment evidence](Evidence/2.2-aassign-liscenses-to-a-group.png)
 
 *Figure 2.2a assign liscenses to a group  — Group licence assignment evidence.*
 
 ### Unassigning licences from a group
 
-![Unassigning licences from a group](./Evidence/2.3a-unassign-liscenses-froma-group.png)
+![Unassigning licences from a group](Evidence/2.3a-unassign-liscenses-froma-group.png)
 
 *Figure 2.3a unassign liscenses froma group  — Unassigning licences from a group.*
 
 ### Creating a Microsoft 365 group
 
-![Creating a Microsoft 365 group](./Evidence/4.1a-Create-a-microsoft365-group.png)
+![Creating a Microsoft 365 group](Evidence/4.1a-Create-a-microsoft365-group.png)
 
 *Figure 4.1a Create a microsoft365 group — Creating a Microsoft 365 group.*
 
