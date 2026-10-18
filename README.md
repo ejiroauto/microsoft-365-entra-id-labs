@@ -1,4 +1,4 @@
-## Microsoft 365 Administration — Evidence
+## Microsoft 365 Administration 
 
 This repository documents practical labs completed while studying Microsoft 365 administration and Microsoft Entra ID. Screenshots are included as evidence of configuration and validation.
 
